@@ -1,1 +1,1 @@
-# AtividadesEmC
+# Programas simples em linguagem C.
