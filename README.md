@@ -1,1 +1,1 @@
-# Programas simples em linguagem C.
+# Programas simples em linguagem C
